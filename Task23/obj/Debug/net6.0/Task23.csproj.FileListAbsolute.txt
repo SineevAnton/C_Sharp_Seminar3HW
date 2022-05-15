@@ -1,0 +1,15 @@
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar3/Task23/bin/Debug/net6.0/Task23
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar3/Task23/bin/Debug/net6.0/Task23.deps.json
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar3/Task23/bin/Debug/net6.0/Task23.runtimeconfig.json
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar3/Task23/bin/Debug/net6.0/Task23.dll
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar3/Task23/bin/Debug/net6.0/Task23.pdb
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar3/Task23/obj/Debug/net6.0/Task23.csproj.AssemblyReference.cache
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar3/Task23/obj/Debug/net6.0/Task23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar3/Task23/obj/Debug/net6.0/Task23.AssemblyInfoInputs.cache
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar3/Task23/obj/Debug/net6.0/Task23.AssemblyInfo.cs
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar3/Task23/obj/Debug/net6.0/Task23.csproj.CoreCompileInputs.cache
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar3/Task23/obj/Debug/net6.0/Task23.dll
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar3/Task23/obj/Debug/net6.0/refint/Task23.dll
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar3/Task23/obj/Debug/net6.0/Task23.pdb
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar3/Task23/obj/Debug/net6.0/Task23.genruntimeconfig.cache
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar3/Task23/obj/Debug/net6.0/ref/Task23.dll
