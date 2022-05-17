@@ -13,7 +13,16 @@ while (true)
     Console.WriteLine("Wrong input. Enter a five-digit number: ");
 }
 
-char[] numReverse = num.ToCharArray();
-Array.Reverse(numReverse);
-string result = new string(numReverse);
-Console.WriteLine(num == result ? "Yes" : "No");
+/* OLD VERSION */
+
+//char[] numReverse = num.ToCharArray();
+//Array.Reverse(numReverse);
+//string result = new string(numReverse);
+//Console.WriteLine(num == result ? "Yes" : "No");
+
+/* NEW VERSION */
+
+for (int i = 4; i >= 0; i--)
+{
+    Console.Write(num[i]);
+}
